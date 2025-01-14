@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/6d7bb54d-d801-4b70-b0a0-9d98a36fa682)# Face_recognition-
 Face recognition project based on google teachable machine
 ### Project Report: Python-Based Face Recognition Application Using TensorFlow and OpenCV
 
